@@ -1,2 +1,3 @@
 # Sarcasm-Detector
-A simple Machine Learning Model that determine whether the sentence is sarcastic or not
+
+A simple Deep Learning Model that can determine whether the sentence is sarcastic or not, using LSTM and GRU
